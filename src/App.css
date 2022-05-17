@@ -1,6 +1,9 @@
 .App {
   text-align: center;
-  color: aquamarine;
+  color: blueviolet;
+  background-color: bisque;
+  border: 2px;
+  border-bottom: blueviolet;
 }
 
 .App-logo {
